@@ -1,0 +1,6 @@
+	Loan_ID	Gender	Married	Dependents	Education	Self_Employed	ApplicantIncome	CoapplicantIncome	LoanAmount	Loan_Amount_Term	Credit_History	Property_Area	Loan_Status
+0	LP001002	Male	No	0	Graduate	No	5849	0	NaN	360	1	Urban	Y
+1	LP001003	Male	Yes	1	Graduate	No	4583	1508	128	360	1	Rural	N
+2	LP001005	Male	Yes	0	Graduate	Yes	3000	0	66	360	1	Urban	Y
+3	LP001006	Male	Yes	0	Not Graduate	No	2583	2358	120	360	1	Urban	Y
+4	LP001008	Male	No	0	Graduate	No	6000	0	141	360	1	Urban	Y
